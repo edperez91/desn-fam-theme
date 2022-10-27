@@ -2,7 +2,8 @@
 
 # DESN FMLY Theme
 VS code theme inspired by the design family at EWU
-*Green Used in scroll bar while hovering 
+
+###Green Used in scroll bar while hovering 
 
 ## Sources
 *[Theme Studio](https://themes.vscode.one)
